@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/michael/Elektronik/Projekte/Signals/Signaling 151215/sig-ctc-ITVP/pcb-kicad/sig-ctc-ITVP.sch</source>
+    <date>Sonntag, 27. Dezember 2015 12:56:30</date>
+    <tool>Eeschema 4.0.1-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Inductive Track Vacancy Proving</title>
+        <company/>
+        <rev>1.0</rev>
+        <date>2015-12-25</date>
+        <source>sig-ctc-ITVP.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>LM339</value>
+      <footprint>Housings_DIP:DIP-14_W7.62mm</footprint>
+      <libsource lib="linear" part="LM339"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D62D8</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D6531</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>750</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D65F0</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>4.3k</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D6652</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N4001</value>
+      <footprint>Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D668E</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4001</value>
+      <footprint>Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D6721</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>INDUCTOR</value>
+      <footprint>Air_Coils_SML_NEOSID:CST306-3A</footprint>
+      <libsource lib="device" part="INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D6978</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D6_P5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D6DC2</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>750k</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D70AA</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>4.7k</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D7439</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>4.7k</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D748E</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D7504</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>4.7k</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D77CA</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D798E</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D7C4F</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10ki</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D7CBB</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LEDs:LED-3MM</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D7E7A</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>BUS</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x05</footprint>
+      <libsource lib="conn" part="CONN_02X05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D858A</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>Selector 0-7</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x08</footprint>
+      <libsource lib="conn" part="CONN_01X08"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D8796</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>Selector</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01</footprint>
+      <libsource lib="conn" part="CONN_01X01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567D880B</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>Selector</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x01</footprint>
+      <libsource lib="conn" part="CONN_01X01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567DAAD3</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D5_L6_P2.5</footprint>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>567DBFF0</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X01">
+      <description>Connector 01x01</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X01</fp>
+        <fp>Pin_Header_Angled_1X01</fp>
+        <fp>Socket_Strip_Straight_1X01</fp>
+        <fp>Socket_Strip_Angled_1X01</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X08">
+      <description>Connector 01x08</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X08</fp>
+        <fp>Pin_Header_Angled_1X08</fp>
+        <fp>Socket_Strip_Straight_1X08</fp>
+        <fp>Socket_Strip_Angled_1X08</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X05">
+      <description>Connector 02x05</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X05</fp>
+        <fp>Pin_Header_Angled_2X05</fp>
+        <fp>Socket_Strip_Straight_2X05</fp>
+        <fp>Socket_Strip_Angled_2X05</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP*</fp>
+        <fp>Elko*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="INDUCTOR">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="LED">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="linear" part="LM339">
+      <description>Quad comparator.</description>
+      <docs>op_amps/lm139.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM339</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="openCol"/>
+        <pin num="2" name="~" type="openCol"/>
+        <pin num="3" name="V+" type="power_in"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="+" type="input"/>
+        <pin num="8" name="-" type="input"/>
+        <pin num="9" name="+" type="input"/>
+        <pin num="10" name="-" type="input"/>
+        <pin num="11" name="+" type="input"/>
+        <pin num="12" name="V-" type="power_in"/>
+        <pin num="13" name="~" type="openCol"/>
+        <pin num="14" name="~" type="openCol"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>/Library/Application Support/kicad/library/device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/Library/Application Support/kicad/library/conn.lib</uri>
+    </library>
+    <library logical="linear">
+      <uri>/Library/Application Support/kicad/library/linear.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="R2" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="P4" pin="1"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="2" name="Net-(R5-Pad2)">
+      <node ref="U1" pin="9"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="3" name="Net-(D3-Pad1)">
+      <node ref="U1" pin="14"/>
+      <node ref="D3" pin="1"/>
+    </net>
+    <net code="4" name="Net-(D3-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="U1" pin="12"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U1" pin="6"/>
+      <node ref="U1" pin="7"/>
+      <node ref="R1" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="P4" pin="10"/>
+    </net>
+    <net code="6" name="/Out1">
+      <node ref="P3" pin="2"/>
+      <node ref="P4" pin="3"/>
+    </net>
+    <net code="7" name="/Out2">
+      <node ref="P4" pin="4"/>
+      <node ref="P3" pin="3"/>
+    </net>
+    <net code="8" name="/Out3">
+      <node ref="P4" pin="5"/>
+      <node ref="P3" pin="4"/>
+    </net>
+    <net code="9" name="/Out4">
+      <node ref="P3" pin="5"/>
+      <node ref="P4" pin="6"/>
+    </net>
+    <net code="10" name="/Out5">
+      <node ref="P4" pin="7"/>
+      <node ref="P3" pin="6"/>
+    </net>
+    <net code="11" name="/Out6">
+      <node ref="P3" pin="7"/>
+      <node ref="P4" pin="8"/>
+    </net>
+    <net code="12" name="/Out7">
+      <node ref="P3" pin="8"/>
+      <node ref="P4" pin="9"/>
+    </net>
+    <net code="13" name="Net-(P1-Pad1)">
+      <node ref="P1" pin="1"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="15" name="Net-(C2-Pad1)">
+      <node ref="U1" pin="10"/>
+      <node ref="C2" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="16" name="/Out0">
+      <node ref="P3" pin="1"/>
+      <node ref="P4" pin="2"/>
+    </net>
+    <net code="17" name="Net-(R2-Pad2)">
+      <node ref="U1" pin="5"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="19" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="20" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="U1" pin="4"/>
+      <node ref="D2" pin="2"/>
+      <node ref="L1" pin="1"/>
+    </net>
+    <net code="21" name="Net-(R7-Pad2)">
+      <node ref="U1" pin="11"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R8" pin="1"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="22" name="Net-(P2-Pad1)">
+      <node ref="U1" pin="13"/>
+      <node ref="P2" pin="1"/>
+      <node ref="U1" pin="8"/>
+      <node ref="R10" pin="2"/>
+      <node ref="R9" pin="1"/>
+    </net>
+  </nets>
+</export>
